@@ -1,0 +1,26 @@
+/Build/WebGame.loader.js
+  Content-Type: application/javascript
+
+/Build/WebGame.framework.js.gz
+  Content-Encoding: gzip
+  Content-Type: application/javascript
+
+/Build/WebGame.wasm.gz
+  Content-Encoding: gzip
+  Content-Type: application/wasm
+
+/Build/WebGame.data.gz
+  Content-Encoding: gzip
+  Content-Type: application/octet-stream
+
+/Build/WebGame.framework.js
+  Content-Type: application/javascript
+
+/Build/WebGame.wasm
+  Content-Type: application/wasm
+
+/Build/WebGame.data
+  Content-Type: application/octet-stream
+
+/*
+  Access-Control-Allow-Origin: *
